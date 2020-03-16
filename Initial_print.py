@@ -9,3 +9,9 @@ elif a == b :
     print ('True True')
 else :
     print ('False')
+
+
+fruits = ['Banana','Apple','Mango']
+
+for index in range(len(fruits)):
+    print (fruits[index])
