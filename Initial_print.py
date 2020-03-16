@@ -10,7 +10,6 @@ elif a == b :
 else :
     print ('False')
 
-
 fruits = ['Banana','Apple','Mango']
 for index in range(len(fruits)):
     print (fruits[index])
