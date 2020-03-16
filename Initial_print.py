@@ -12,11 +12,9 @@ else :
 
 
 fruits = ['Banana','Apple','Mango']
-
 for index in range(len(fruits)):
     print (fruits[index])
     
 cars = ['Toyota','Tesla','Hyundai']
-
 for index in range(len(cars)):
     print (cars[index])
